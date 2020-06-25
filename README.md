@@ -8,7 +8,10 @@ This **kwin script** is very useful if you have an **ultrawide monitor**. You ca
 
 ```bash
 # clone the repository
+https://github.com/sergiupopescu199/moveWindow.git
+# enter in the cloned repository
 cd moveWindow
+# install the kwin-script
 plasmapkg2 --type=kwinscript -i .
 # the files will be installed in /home/<user>/.local/share/kwin/scripts/moveWindow
 ```
