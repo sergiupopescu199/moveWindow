@@ -8,7 +8,7 @@ This **kwin script** is very useful if you have an **ultrawide monitor**. You ca
 
 ```bash
 # clone the repository
-https://github.com/sergiupopescu199/moveWindow.git
+git clone https://github.com/sergiupopescu199/moveWindow.git
 # enter in the cloned repository
 cd moveWindow
 # install the kwin-script
