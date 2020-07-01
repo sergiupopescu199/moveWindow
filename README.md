@@ -1,8 +1,9 @@
 # Move Window
 
 This **kwin script** is very useful if you have an **ultrawide monitor**. You can quickly move the focused window to the extreme **Left** / **Right** or in the **Center** of the screen.
-
-![preview](docs/preview.gif)
+<p align="center">
+    <img src="./docs/preview.gif alt="preview.gif""
+</p>
 
 ## Install
 
